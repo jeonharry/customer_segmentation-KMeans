@@ -37,7 +37,7 @@ The goal of this project is to apply unsupervised learning techniques to group c
 ├── src/
 │   ├── data/
 │   │   └── Mall_Customers.csv
-│   └── src.py
+│   └── customer_segmentation.ipynb
 ├── .gitignore
 └── README.md
 ```
